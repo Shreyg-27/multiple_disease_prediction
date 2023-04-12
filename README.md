@@ -8,11 +8,15 @@ diseases based on their input data.
 
 To use the prediction system, simply follow these steps:
 
-Install the necessary dependencies by running pip install -r requirements.txt.
-Run the application using the command streamlit run predictionsystem.py.
-Once the application is running, select the disease you want to predict- heart, parkinsons, and diabetes.
-Enter the required input data, such as age, gender, blood pressure, and other relevant factors.
-Click on the button.
+1) Install the necessary dependencies by running pip install -r requirements.txt.
+
+2) Run the application using the command streamlit run predictionsystem.py.
+
+3) Once the application is running, select the disease you want to predict- heart, parkinsons, and diabetes.
+
+4) Enter the required input data, such as age, gender, blood pressure, and other relevant factors.
+
+5) Click on the button.
 
 ### Conclusion
 
